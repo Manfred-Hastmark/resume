@@ -2,8 +2,9 @@
 
 This repository contains the source latex files for my resume. The template I created my resume from 
 is forked from the [latexcv](https://github.com/jankapunkt/latexcv) repository, from which I used the *sidebarleft*-template.
+The actual resume can be found [here](sidebarleft/main.pdf) and below you can see a preview of the first page.
 
-<img src="docs/media/sidebarleft.png" alt="Left sidebar CV example preview" />
+![](docs/media/sidebarleft.png)
 
 ## How to build (docker)?
 
